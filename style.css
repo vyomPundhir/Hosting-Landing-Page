@@ -296,3 +296,17 @@
   font-weight: 600;
   line-height: 25px;
 }
+/* Ready to support section */
+.ready{
+ background-color: white;
+}
+.ready-main{
+  background: transparent;
+  width: 900px;
+  margin-left: 100px;
+  padding-top: 24px;
+  letter-spacing: 0.35px;
+  font-size: 46px;
+  font-weight: 700;
+  line-height: 62px;
+}
