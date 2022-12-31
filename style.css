@@ -310,3 +310,68 @@
   font-weight: 700;
   line-height: 62px;
 }
+/* main-features section */
+.main-feat{
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.main-feat-1{
+  background: transparent;
+}
+.main-1{
+  background: transparent;
+}
+.feature-1{
+  background: transparent;
+}
+.main-2{
+  background: transparent;
+}
+.main-3{
+  background: transparent;
+}
+.main-4{
+  background: transparent;
+}
+.main-5{
+  background: transparent;
+}
+.add{
+  background: transparent;
+}
+.sub{
+  background: transparent;
+}
+.main-feat-2{
+  background: transparent;
+}
+.main-2.1{
+  background: transparent;
+}
+.main-2.2{
+  background: transparent;
+}
+.main-2.3{
+  background: transparent;
+}
+.main-2.4{
+  background: transparent;
+}
+.main-2.5{
+  background: transparent;
+}
+.main-2.6{
+  background: transparent;
+}
+.main-2.7{
+  background: transparent;
+}
+.main-2.8{
+  background: transparent;
+}
+
+.feature-2{
+  background: transparent;
+}
