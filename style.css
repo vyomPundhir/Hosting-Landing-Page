@@ -306,7 +306,7 @@
   margin-left: 100px;
   padding-top: 24px;
   letter-spacing: 0.35px;
-  font-size: 46px;
+  font-size: 46.6px;
   font-weight: 700;
   line-height: 62px;
 }
@@ -322,21 +322,31 @@
 }
 .main-1{
   background: transparent;
+  display: flex;
+  flex-direction: row;
 }
 .feature-1{
   background: transparent;
 }
 .main-2{
   background: transparent;
+  display: flex;
+  flex-direction: row;
 }
 .main-3{
   background: transparent;
+  display: flex;
+  flex-direction: row;
 }
 .main-4{
   background: transparent;
+  display: flex;
+  flex-direction: row;
 }
 .main-5{
   background: transparent;
+  display: flex;
+  flex-direction: row;
 }
 .add{
   background: transparent;
