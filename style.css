@@ -311,3 +311,24 @@
   line-height: 62px;
 }
 /* main-features section */
+.main-feat{
+  background-color: white;
+}
+.main-feat-left{
+  background-color: transparent;
+}
+.main-feat-1{
+  background-color: transparent;
+}
+.main-left-cnt{
+  background-color: transparent;
+}
+.main-left-minus{
+  background-color: transparent;
+}
+.main-feat-2{
+  background-color: transparent;
+}
+.main-left-plus{
+  background-color: transparent;
+}
