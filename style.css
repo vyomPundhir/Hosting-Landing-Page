@@ -332,19 +332,34 @@
   height: 97px;
 }
 .main-feat-2{
+  margin-top: -400px;
+  border: 1px solid rgb(42, 42, 42);
+  background-color: transparent;
+  margin-left: 103px;
+  margin-top: 63px;
   display: flex;
+  border-radius: 55px;
+  width: 550px;
+  height: 97px;
 }
 .main-feat-1 .main-left-cnt{
   color: white;
-}
-.main-left-cnt{
   padding-top: 33px;
   padding-left: 30px;
   font-size: 24px;
   font-weight: 600;
   background-color: transparent;
 }
+.main-left-cnt{
+  width: 400px;
+  padding-top: 0px;
+  padding-left: 0px;
+  font-size: 23px;
+  font-weight: 700;
+  background-color: transparent;
+}
 .main-left-minus{
+  position: absolute;
   margin-left: 250px;
   margin-top: 28px;
   display: flex;
@@ -361,14 +376,22 @@
   height: 33px;
   background-color: transparent;
 }
-.main-feat-2{
-  background-color: transparent;
-}
 .main-left-plus{
-  border: 1.5px black solid;
+  position: absolute;
+  margin-left: 250px;
+  margin-top: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  color: rgb(62, 62, 62);
+  text-align: center;
+  border: 1.2px rgb(59, 59, 59) solid;
+  font-size: 30px;
+  font-weight: 100;
   border-radius: 20px;
-  width: 30px;
-  height: 30px;
+  width: 33px;
+  height: 33px;
   background-color: transparent;
 }
 /* Right side */
